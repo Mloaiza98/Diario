@@ -1,7 +1,6 @@
 # Diario
 
 ## Ejemplo en vivo
-- [¡Pruebalo!](https://mloaiza98.github.io/Diario/)
  *Instalación necesaria*
 
 ## Descripción 📑
